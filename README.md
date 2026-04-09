@@ -19,7 +19,7 @@ Tenho facilidade em aprender rápido, me adaptar e trabalhar com pessoas.
 
 
 ## Skills
-- 🔗 [Meus Projetos](http://github.com/Vitor-gabriel1274/Projeto-1)
+- 🔗 [Meus Projetos](https://github.com/EnzoNoronhaCS/Projetos-da-faculdade)
 
 ---
 
