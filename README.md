@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, eu sou Enzo Noronha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Estudante+de+ADS;Focado+em+Python+e+Java;Buscando+minha+primeira+oportunidade+em+TI" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Estudante+de+ADS;Focado+em+Python+e+Java;Buscando+minha+primeira+oportunidade" />
 </p>
 
 ---
