@@ -11,9 +11,9 @@
 -  Experiência como auxiliar Tecnico em uma creche  
 -  Atualmente estudando Python e Java
 -  Buscando minha primeira oportunidade na área de TI
--  Sei falar Ingles/Espanhol em nivel avançado  
+-  Sei falar Ingles em nivel avançado  
 
-Tenho facilidade em aprender rápido, me adaptar e trabalhar com pessoas.
+Tenho facilidade em aprender rápido, me adaptar a novos sistemas e trabalhar com pessoas.
 
 ---
 
@@ -40,10 +40,10 @@ Tenho facilidade em aprender rápido, me adaptar e trabalhar com pessoas.
 
 ---
 
-## 📫 Contato
-📧 **enzonoronhacs@gmail.com**
+##  Contato
+ **enzonoronhacs@gmail.com**
 
 ---
 
 <p align="center">
-🔥 <b>"Cada vez mais perto de um sonho, linha por linha."</b> 🔥
+ <b>"Cada vez mais perto de um sonho, linha por linha."</b> 
