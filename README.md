@@ -75,13 +75,11 @@
 </a>
 
 </div>
-###
 
 <p align="left">Email para contato: enzonoronhacs@gmail.com</p>
 
 <p align="left">Numero do WhatsApp: (61) 99139-7739</p>
 
-###
 </div>
 ###
 
