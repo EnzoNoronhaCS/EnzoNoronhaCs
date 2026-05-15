@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📎 (https://github.com/EnzoNoronhaCS/Projetos-da-faculdade)</p>
+<p align="left">📎 [Meus Projetos](https://github.com/EnzoNoronhaCS/Projetos-da-faculdade)
 
 ###
 
