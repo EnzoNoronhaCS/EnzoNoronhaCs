@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📎 [Meus Projetos](https://github.com/EnzoNoronhaCS/Projetos-da-faculdade)
+📎 [Meus Projetos](https://github.com/EnzoNoronhaCS/Projetos-da-faculdade)
 
 ###
 
@@ -47,9 +47,14 @@
 ###
 
 <div align="left">
+<a href="https://www.github.com/EnzoNoronhaCs" target="_blank">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</a>  
   <img width="12" />
+<a href="https://www.linkedin.com/in/enzo-noronha-397a703b4/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+</a>
+  
 </div>
 
 ###
@@ -59,9 +64,16 @@
 ###
 
 <div align="left">
+<a href="https://www.github.com/EnzoNoronhaCs" target="_blank">    
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<a href="https://www.github.com/EnzoNoronhaCs" target="_blank">  
+</a>  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+<a href="https://www.youtube.com/@EnzoNoronha312" target="_blank">  
+</a>  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</a>
+
 </div>
 
 ###
