@@ -1,49 +1,71 @@
-<h1 align="center"> Olá, eu sou Enzo Noronha</h1>
+<h1 align="center">👋 Bem Vindo! 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Estudante+de+ADS;Focado+em+Python+e+Java;Buscando+minha+primeira+oportunidade" />
-</p>
+###
 
----
+<p align="left">Olá, meu nome é Enzo Noronha!</p>
 
-## Sobre mim
--  Estudante de Análise e Desenvolvimento de Sistemas (CEUB) — 1º semestre  
--  Experiência como auxiliar Tecnico em uma creche  
--  Atualmente estudando Python e Java
--  Buscando minha primeira oportunidade na área de TI
--  Sei falar Ingles em nivel avançado  
+###
 
-Tenho facilidade em aprender rápido, me adaptar a novos sistemas e trabalhar com pessoas.
+<h2 align="left">Sobre mim</h2>
 
----
+###
 
+<p align="left">✨ Falo ingles em nivel avançado<br>📚 Estou cursando Análise e Desenvolvimento de Sistemas (CEUB)<br>🧗‍♂️ Pretendo aumentar minha experiencia como programador backend<br>🌟 Experiência como auxiliar Tecnico em uma creche (Escola Castelinho da Criança)</p>
 
-## Skills
-- 🔗 [Meus Projetos](https://github.com/EnzoNoronhaCS/Projetos-da-faculdade)
+###
 
----
+<h2 align="left">Caminho construido</h2>
 
+###
 
+<p align="left">📎 https://github.com/EnzoNoronhaCS/Projetos-da-faculdade</p>
 
-## 🌐 Conecte-se comigo
-<p>
+###
 
-<a href="https://www.github.com/EnzoNoronhaCs" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
+<h2 align="left">Foco nas principais linguagens</h2>
 
-<a href="https://www.linkedin.com/in/enzo-noronha-397a703b4/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+###
 
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
 
----
+###
 
-##  Contato
- **enzonoronhacs@gmail.com**
+<h2 align="left">Meus contatos</h2>
 
----
+###
 
-<p align="center">
- <b>"Cada vez mais perto de um sonho, linha por linha."</b> 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<p align="left">Email e numero para contato:</p>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<p align="center">Obrigado pela leitura!</p>
+
+###
